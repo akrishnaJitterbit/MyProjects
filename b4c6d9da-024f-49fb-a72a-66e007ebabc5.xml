@@ -7,7 +7,7 @@
   <Location type="GlobalData">
     <Data>
       <Properties>
-        <Item key="locator" value="GV"/>
+        <Item key="locator" value="GV1"/>
       </Properties>
     </Data>
   </Location>

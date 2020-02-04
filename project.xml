@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project name="CI-CD Test" projectId="e09e5f50-59da-4cc5-a675-23125a0e29f4">
+  <EntityType name="Source">
+    <Entity entityId="b4c6d9da-024f-49fb-a72a-66e007ebabc5" name="GV"/>
+  </EntityType>
+</Project>

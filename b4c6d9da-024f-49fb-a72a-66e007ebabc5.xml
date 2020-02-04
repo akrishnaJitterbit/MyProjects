@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entity type="Source">
+  <Header Deleted="false" DeployDirty="true" Deployed="false" HasMoved="false" ID="b4c6d9da-024f-49fb-a72a-66e007ebabc5" Name="GV">
+    <konga.string name="Description"/>
+  </Header>
+  <Properties/>
+  <Location type="GlobalData">
+    <Data>
+      <Properties>
+        <Item key="locator" value="GV"/>
+      </Properties>
+    </Data>
+  </Location>
+</Entity>

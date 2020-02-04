@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entity type="Operation">
+  <Header Deleted="false" DeployDirty="false" Deployed="true" HasMoved="false" ID="14784e2a-2540-4098-acc9-18f65bc22695" Name="New Operation">
+    <konga.string name="Description"/>
+  </Header>
+  <Properties>
+    <Item key="chunk_size" value="0"/>
+    <Item key="debug_mode_until" value=""/>
+    <Item key="ignore_history" value="1"/>
+    <Item key="LogLevel" value="Everything"/>
+    <Item key="max_number_of_threads" value="1"/>
+    <Item key="operation_type_id" value="1"/>
+    <Item key="run_success_op_if_no_source_files" value="0"/>
+    <Item key="source_chunk_node" value=""/>
+    <Item key="source_id" value="b4c6d9da-024f-49fb-a72a-66e007ebabc5"/>
+    <Item key="target_chunk_node" value=""/>
+    <Item key="target_chunk_size" value="0"/>
+    <Item key="target_id" value="e2a9dbe8-5972-4594-9518-7fea689dc96d"/>
+    <Item key="timeoutseconds" value="7200"/>
+    <Item key="timeoutuiunit" value="HOURS"/>
+    <Item key="validate_source_text_file" value="0"/>
+  </Properties>
+  <Pipeline opType="Archive">
+    <Activities>
+      <SOURCE activityId="875d3776-8dea-40a2-a81b-3c1dfe8bd480" contentId="b4c6d9da-024f-49fb-a72a-66e007ebabc5" role="Source" type="2"/>
+      <TARGET activityId="133286d6-6b3c-48ff-b412-b9dea150ee19" contentId="e2a9dbe8-5972-4594-9518-7fea689dc96d" role="Target" type="3"/>
+    </Activities>
+  </Pipeline>
+  <Siblings/>
+</Entity>

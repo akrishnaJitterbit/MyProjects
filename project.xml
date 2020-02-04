@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Project name="CI-CD Test" projectId="e09e5f50-59da-4cc5-a675-23125a0e29f4">
+  <EntityType name="Operation">
+    <Entity entityId="14784e2a-2540-4098-acc9-18f65bc22695" name="New Operation"/>
+  </EntityType>
+  <EntityType name="Target">
+    <Entity entityId="afd8fe3c-a22a-4963-83ac-4dd20a269c52" name="GV2"/>
+  </EntityType>
   <EntityType name="Source">
     <Entity entityId="b4c6d9da-024f-49fb-a72a-66e007ebabc5" name="GV"/>
   </EntityType>
